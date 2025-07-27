@@ -15,7 +15,7 @@ def configure_environment():
     load_dotenv()
 
     # Configure Google API (for Gemini / generative AI agents)
-    google_api_key = "AIzaSyDpNk4LNjJcRNPzOzgVPM7NfGRhjIrbjZ0"
+    google_api_key = "<API KEY>"
 
     if google_api_key:
         try:
