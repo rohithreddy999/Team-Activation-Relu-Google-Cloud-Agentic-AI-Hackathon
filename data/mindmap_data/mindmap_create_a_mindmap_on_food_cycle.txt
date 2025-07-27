@@ -1,0 +1,24 @@
+**CENTRAL TOPIC: Food Web**
+**MAIN BRANCHES (Level 1):**
+Branch 1: Producers
+  ├── Sub-branch 1.1: Definition
+  │   └── 1.1.1: Autotrophs
+  └── Sub-branch 1.2: Examples
+      └── 1.2.1: Plants, Algae
+Branch 2: Consumers
+  ├── Sub-branch 2.1: Herbivores
+  │   └── 2.1.1: Eat Producers
+  ├── Sub-branch 2.2: Carnivores
+  │   └── 2.2.1: Eat Other Animals
+  └── Sub-branch 2.3: Omnivores
+      └── 2.3.1: Eat Both
+Branch 3: Decomposers
+  ├── Sub-branch 3.1: Definition
+  │   └── 3.1.1: Break down dead matter
+  └── Sub-branch 3.2: Examples
+      └── 3.2.1: Fungi, Bacteria
+Branch 4: Energy Flow
+  ├── Sub-branch 4.1: Trophic Levels
+  │   └── 4.1.1: Transfer of Energy
+  └── Sub-branch 4.2: Energy Loss
+      └── 4.2.1: Heat, Waste

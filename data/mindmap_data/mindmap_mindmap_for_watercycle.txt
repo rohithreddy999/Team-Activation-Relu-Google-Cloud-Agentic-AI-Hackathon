@@ -1,0 +1,23 @@
+**CENTRAL TOPIC: Water Cycle**
+**MAIN BRANCHES (Level 1):**
+Branch 1: Processes
+  ├── Sub-branch 1.1: Evaporation
+  │   └── 1.1.1: Liquid to Gas
+  ├── Sub-branch 1.2: Condensation
+  │   └── 1.2.1: Gas to Liquid
+  └── Sub-branch 1.3: Precipitation
+      └── 1.3.1: Rain, Snow, Hail
+Branch 2: Storage
+  ├── Sub-branch 2.1: Oceans
+  │   └── 2.1.1: Largest Reservoir
+  ├── Sub-branch 2.2: Groundwater
+  │   └── 2.2.1: Aquifers
+  └── Sub-branch 2.3: Ice
+      └── 2.3.1: Glaciers, Ice Caps
+Branch 3: Movement
+  ├── Sub-branch 3.1: Runoff
+  │   └── 3.1.1: Surface Flow
+  ├── Sub-branch 3.2: Infiltration
+  │   └── 3.2.1: Ground Absorption
+  └── Sub-branch 3.3: Transpiration
+      └── 3.3.1: Plants Release Water

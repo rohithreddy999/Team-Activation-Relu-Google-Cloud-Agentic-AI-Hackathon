@@ -1,0 +1,15 @@
+**CENTRAL TOPIC: Condensation**
+**MAIN BRANCHES (Level 1):**
+Branch 1: Definition
+  ├── Sub-branch 1.1: Gas to Liquid
+  │   └── 1.1.1: Water Vapor to Water
+Branch 2: How it Happens
+  ├── Sub-branch 2.1: Cooling
+  │   └── 2.1.1: Temperature Decrease
+  └── Sub-branch 2.2: Saturation
+      └── 2.2.1: Air Holds Maximum Moisture
+Branch 3: Examples
+  ├── Sub-branch 3.1: Dew
+  │   └── 3.1.1: On Grass
+  └── Sub-branch 3.2: Clouds
+      └── 3.2.1: Water Droplets/Ice Crystals

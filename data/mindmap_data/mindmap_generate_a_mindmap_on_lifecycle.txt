@@ -1,0 +1,15 @@
+**CENTRAL TOPIC: Lifecycle**
+**MAIN BRANCHES (Level 1):**
+Branch 1: Stages
+  ├── Sub-branch 1.1: Birth/Germination
+  │   └── 1.1.1: Starting Point
+  └── Sub-branch 1.2: Growth
+      └── 1.2.1: Development, Maturation
+Branch 2: Reproduction
+  ├── Sub-branch 2.1: Offspring
+  │   └── 2.1.1: Creating new life
+  └── Sub-branch 2.2: Passing on traits
+      └── 2.2.1: Genetics, Heredity
+Branch 3: Death
+  ├── Sub-branch 3.1: End of Life
+  └── Sub-branch 3.2: Decomposition/Recycling

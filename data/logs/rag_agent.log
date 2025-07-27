@@ -1,0 +1,18 @@
+2025-07-27 03:26:48,762 - agents.rag_agent - INFO - Processing document: data/temp/Usha_Resume.pdf
+2025-07-27 03:26:48,806 - agents.rag_agent - INFO - Created 2 chunks from document
+2025-07-27 03:26:53,148 - agents.rag_agent - INFO - Initializing knowledge base from: /Users/k.sairohithreddy/Downloads/roh/Final-Sahayak/data/content_data
+2025-07-27 03:26:53,149 - agents.rag_agent - INFO - Processing file: /Users/k.sairohithreddy/Downloads/roh/Final-Sahayak/data/content_data/story_food_chain.txt
+2025-07-27 03:26:53,151 - agents.rag_agent - INFO - Processing file: /Users/k.sairohithreddy/Downloads/roh/Final-Sahayak/data/content_data/explanation_water_cycle.txt
+2025-07-27 03:32:07,932 - agents.rag_agent - INFO - Initializing knowledge base
+2025-07-27 03:32:07,932 - agents.rag_agent - INFO - Processing file: /Users/k.sairohithreddy/Downloads/roh/Final-Sahayak/data/temp/akhil_format.pdf
+2025-07-27 03:32:07,989 - agents.rag_agent - INFO - Added 2 chunks from akhil_format.pdf
+2025-07-27 03:32:10,237 - agents.rag_agent - INFO - Initializing knowledge base
+2025-07-27 03:32:12,044 - agents.rag_agent - INFO - Initializing knowledge base
+2025-07-27 03:32:17,842 - agents.rag_agent - INFO - Initializing knowledge base
+2025-07-27 03:32:18,671 - agents.rag_agent - INFO - Initializing knowledge base
+2025-07-27 03:32:21,031 - agents.rag_agent - INFO - Initializing knowledge base
+2025-07-27 03:32:21,032 - agents.rag_agent - INFO - Processing file: /Users/k.sairohithreddy/Downloads/roh/Final-Sahayak/data/temp/akhil_format.pdf
+2025-07-27 03:32:21,095 - agents.rag_agent - INFO - Added 2 chunks from akhil_format.pdf
+2025-07-27 03:32:21,164 - agents.rag_agent - INFO - Initializing knowledge base
+2025-07-27 03:32:21,165 - agents.rag_agent - INFO - Processing file: /Users/k.sairohithreddy/Downloads/roh/Final-Sahayak/data/temp/akhil_format.pdf
+2025-07-27 03:32:21,219 - agents.rag_agent - INFO - Added 2 chunks from akhil_format.pdf

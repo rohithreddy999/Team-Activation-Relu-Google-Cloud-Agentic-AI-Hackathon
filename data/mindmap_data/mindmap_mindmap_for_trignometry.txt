@@ -1,0 +1,20 @@
+**CENTRAL TOPIC: Trigonometry**
+**MAIN BRANCHES (Level 1):**
+Branch 1: Basic Functions
+  ├── Sub-branch 1.1: Sine (sin θ)
+  │   └── 1.1.1: Opposite/Hypotenuse
+  ├── Sub-branch 1.2: Cosine (cos θ)
+  │   └── 1.2.1: Adjacent/Hypotenuse
+  └── Sub-branch 1.3: Tangent (tan θ)
+      └── 1.3.1: Opposite/Adjacent
+Branch 2: Key Concepts
+  ├── Sub-branch 2.1: Right Triangles
+  │   └── 2.1.1: Pythagorean Theorem
+  ├── Sub-branch 2.2: Unit Circle
+  │   └── 2.2.1: Radius = 1
+  └── Sub-branch 2.3: Angles
+      └── 2.3.1: Degrees & Radians
+Branch 3: Applications
+  ├── Sub-branch 3.1: Navigation
+  ├── Sub-branch 3.2: Engineering
+  └── Sub-branch 3.3: Physics

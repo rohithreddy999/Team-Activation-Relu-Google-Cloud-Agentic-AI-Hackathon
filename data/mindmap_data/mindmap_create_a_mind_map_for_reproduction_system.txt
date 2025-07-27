@@ -1,0 +1,22 @@
+**CENTRAL TOPIC: Reproduction System**
+**MAIN BRANCHES (Level 1):**
+Branch 1: Male System
+  ├── Sub-branch 1.1: Testes
+  │   └── 1.1.1: Sperm production
+  └── Sub-branch 1.2: Penis
+      └── 1.2.1: Sperm delivery
+Branch 2: Female System
+  ├── Sub-branch 2.1: Ovaries
+  │   └── 2.1.1: Egg production
+  └── Sub-branch 2.2: Uterus
+      └── 2.2.1: Fetus development
+Branch 3: Reproduction Process
+  ├── Sub-branch 3.1: Fertilization
+  │   └── 3.1.1: Sperm meets egg
+  └── Sub-branch 3.2: Development
+      └── 3.2.1: Growth of embryo
+Branch 4: Hormones
+  ├── Sub-branch 4.1: Testosterone
+  │   └── 4.1.1: Male characteristics
+  └── Sub-branch 4.2: Estrogen
+      └── 4.2.1: Female characteristics

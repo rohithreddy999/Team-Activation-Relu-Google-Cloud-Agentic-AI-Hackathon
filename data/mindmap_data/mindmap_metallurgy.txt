@@ -1,0 +1,23 @@
+**CENTRAL TOPIC: Metallurgy**
+**MAIN BRANCHES (Level 1):**
+Branch 1: Processes
+  ├── Sub-branch 1.1: Ore Extraction
+  │   └── 1.1.1: Mining methods
+  └── Sub-branch 1.2: Concentration
+      └── 1.2.1: Physical/Chemical separation
+  ├── Sub-branch 1.3: Reduction
+  │   └── 1.3.1: Smelting, Electrolysis
+Branch 2: Key Terms
+  ├── Sub-branch 2.1: Ores
+  │   └── 2.1.1: Natural mineral deposits
+  └── Sub-branch 2.2: Minerals
+      └── 2.2.1: Naturally occurring compounds
+  ├── Sub-branch 2.3: Gangue
+  │   └── 2.3.1: Unwanted impurities
+Branch 3: Applications
+  ├── Sub-branch 3.1: Manufacturing
+  │   └── 3.1.1: Alloys, tools
+  └── Sub-branch 3.2: Construction
+      └── 3.2.1: Buildings, infrastructure
+  ├── Sub-branch 3.3: Transportation
+  │   └── 3.3.1: Vehicles, aircraft

@@ -1,0 +1,21 @@
+**CENTRAL TOPIC: Evaporation**
+**MAIN BRANCHES (Level 1):**
+Branch 1: What is it?
+  ├── Sub-branch 1.1: Liquid to Gas
+  │   └── 1.1.1: Occurs at Surface
+  └── Sub-branch 1.2: Cooling Effect
+      └── 1.2.1: Takes away heat
+Branch 2: Factors Affecting
+  ├── Sub-branch 2.1: Temperature
+  │   └── 2.1.1: Higher = Faster
+  ├── Sub-branch 2.2: Surface Area
+  │   └── 2.2.1: Larger = Faster
+  └── Sub-branch 2.3: Humidity
+      └── 2.3.1: Lower = Faster
+Branch 3: Examples
+  ├── Sub-branch 3.1: Puddles Drying
+  │   └── 3.1.1: After Rain
+  ├── Sub-branch 3.2: Sweating
+  │   └── 3.2.1: Cooling the body
+  └── Sub-branch 3.3: Clothes Drying
+      └── 3.3.1: On a clothesline
